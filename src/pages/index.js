@@ -52,7 +52,7 @@ const IndexPage = () => (
           <h2 className="mb-5">Publications</h2>
           <h3 className="mb-0">2019</h3>
           <p>
-          [Journal Q1] <b>"A Social Navigation in a Cognitive Architecture Using Dynamic Proxemic Zones" </b> Jonataan Ginés, Francisco Martín Rico, David Vargas, Francisco J. Rodriguez Lera and Vicente Matellán Olivera. Sensors. 19, 5189. 2019. https://doi.org/10.3390/s19235189
+          [Journal Q1] <b>"A Social Navigation in a Cognitive Architecture Using Dynamic Proxemic Zones" </b> Jonatan Ginés, Francisco Martín Rico, David Vargas, Francisco J. Rodriguez Lera and Vicente Matellán Olivera. Sensors. 19, 5189. 2019. https://doi.org/10.3390/s19235189
           </p>
         </div>
       </section>
