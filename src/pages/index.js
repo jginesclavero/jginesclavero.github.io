@@ -52,7 +52,7 @@ const IndexPage = () => (
           <h2 className="mb-5">Publications</h2>
           <h3 className="mb-0">2019</h3>
           <p>
-          [Journal Q1] <br>"A Social Navigation in a Cognitive Architecture Using Dynamic Proxemic Zones" </br> Jonataan Ginés, Francisco Martín Rico, David Vargas, Francisco J. Rodriguez Lera and Vicente Matellán Olivera. Sensors. 19, 5189. 2019. https://doi.org/10.3390/s19235189
+          [Journal Q1] <b>"A Social Navigation in a Cognitive Architecture Using Dynamic Proxemic Zones" </b> Jonataan Ginés, Francisco Martín Rico, David Vargas, Francisco J. Rodriguez Lera and Vicente Matellán Olivera. Sensors. 19, 5189. 2019. https://doi.org/10.3390/s19235189
           </p>
         </div>
       </section>
@@ -190,10 +190,31 @@ const IndexPage = () => (
               <i className="fab fa-js-square"></i>
             </li>
           </ul>
+          
+          {/* <div className="subheading mb-3">Workflow</div>
+          <ul className="fa-ul mb-0">
+            <li>
+              <i className="fa-li fa fa-check"></i>
+              Mobile-First, Responsive Design
+            </li>
+            <li>
+              <i className="fa-li fa fa-check"></i>
+              Cross Browser Testing &amp; Debugging
+            </li>
+            <li>
+              <i className="fa-li fa fa-check"></i>
+              Cross Functional Teams
+            </li>
+            <li>
+              <i className="fa-li fa fa-check"></i>
+              Agile Development &amp; Scrum
+            </li>
+          </ul>*/}
         </div> 
       </section>
 
       <hr className="m-0" />
+
       <section
         className="resume-section p-3 p-lg-5 d-flex align-items-center"
         id="interests"
