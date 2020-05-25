@@ -20,6 +20,7 @@ const IndexPage = () => (
           </h1>
           <div className="subheading mb-5">
             <a href={`mailto:${config.email}`}>{config.email}</a> ·
+            {/* 
             <a itemprop="sameAs" content="https://orcid.org/0000-0002-7319-098X" 
               href="https://orcid.org/0000-0002-7319-098X" target="orcid.widget" 
               rel="me noopener noreferrer" style="vertical-align:top;">
@@ -27,6 +28,7 @@ const IndexPage = () => (
                   style="width:1em;margin-right:.5em;" alt="ORCID iD icon"/>
               https://orcid.org/0000-0002-7319-098X
             </a>
+            */}
           </div>
           <p className="lead mb-5">
             I am experienced in robotic software development with ROS and ROS2. 
