@@ -8,7 +8,7 @@ import config from '../../config';
 const IndexPage = () => (
   <Layout>
     <Sidebar />
-    <div className="container-fluid p-0">
+    <div className="container-fluid p-0" id="page-top">
       <section
         className="resume-section p-3 p-lg-5 d-flex align-items-center"
         id="about"
@@ -23,9 +23,9 @@ const IndexPage = () => (
             <a href={`mailto:${config.email}`}>{config.email}</a>
           </div>
           <p className="lead mb-5">
-            I am experienced in robotic software develop with ROS and ROS2. 
+            I am experienced in robotic software development with ROS and ROS2. 
             The navigation is my strong point.
-            I am working in my PhD now, trying to improve the human perception 
+            I am working on my PhD now, trying to improve the human perception 
             of the robots in a domestic environment thought the integration of 
             proxemic areas in the navigation stack. 
           </p>
@@ -184,6 +184,9 @@ const IndexPage = () => (
             Programming Languages &amp; Tools
           </div>
           <ul className="list-inline dev-icons">
+            <li className="list-inline-item">
+              <i class="icon-cplusplus"></i>
+            </li>
             <li className="list-inline-item">
               <i className="fab fa-python"></i>
             </li>
