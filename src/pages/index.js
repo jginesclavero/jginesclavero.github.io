@@ -8,7 +8,7 @@ import config from '../../config';
 const IndexPage = () => (
   <Layout>
     <Sidebar />
-    <div className="container-fluid p-0" id="page-top">
+    <div className="container-fluid p-0">
       <section
         className="resume-section p-3 p-lg-5 d-flex align-items-center"
         id="about"
@@ -145,29 +145,26 @@ const IndexPage = () => (
       >
         <div className="w-100">
           <h2 className="mb-5">Education</h2>
-          {/*
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">University of Colorado Boulder</h3>
-              <div className="subheading mb-3">Bachelor of Science</div>
-              <div>Computer Science - Web Development Track</div>
-              <p>GPA: 3.23</p>
+              <h3 className="mb-0">Carlos III University</h3>
+              <div className="subheading mb-3">Master in Robotics and Automation</div>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">August 2006 - May 2010</span>
+              <span className="text-primary">September 2017 - September 2019</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
-            <div className="resume-content">
-              <h3 className="mb-0">James Buchanan High School</h3>
-              <div className="subheading mb-3">Technology Magnet Program</div>
-              <p>GPA: 3.56</p>
+          <div className="resume-content">
+              <h3 className="mb-0">Rey Juan Carlos University</h3>
+              <div className="subheading mb-3">Bachelor of Telematic Engineering</div>
+              <div>Robotics - Computer Networks Security</div>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">August 2002 - May 2006</span>
+              <span className="text-primary">September 2011 - December 2016</span>
             </div>
-          </div>*/}
+          </div>
         </div>
       </section>
 
