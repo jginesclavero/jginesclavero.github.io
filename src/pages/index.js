@@ -51,11 +51,12 @@ const IndexPage = () => (
           <h2 className="mb-5">Publications</h2>
           <h3 className="mb-0">2019</h3>
           <p>
-            [Journal Q2] <b>"A Social Navigation in a Cognitive Architecture Using Dynamic Proxemic Zones" </b> Jonatan Ginés, Francisco Martín Rico, David Vargas, Francisco J. Rodriguez Lera and Vicente Matellán Olivera. Sensors. 19, 5189. 2019. <link>https://doi.org/10.3390/s19235189</link>
+            [Journal Q2] <b>"A Social Navigation in a Cognitive Architecture Using Dynamic Proxemic Zones" </b> Jonatan Ginés, Francisco Martín Rico, David Vargas, Francisco J. Rodriguez Lera and Vicente Matellán Olivera. Sensors. 19, 5189. 2019. <a href="https://doi.org/10.3390/s19235189">https://doi.org/10.3390/s19235189</a>
           </p>
           <p>
-            [Journal Q1] <b>"Octree-based localization using RGB-D data for indoor robots" </b> Francisco Martín Rico, Vicente Matellán Olivera, Francisco J. Rodriguez Lera and Jonatan Ginés. Engineering Applications of Artificial Intelligence. Volume 77, January 2019, Pages 177-185. 2019. <link>https://doi.org/10.1016/j.engappai.2018.10.002</link>
+            [Journal Q1] <b>"Octree-based localization using RGB-D data for indoor robots" </b> Francisco Martín Rico, Vicente Matellán Olivera, Francisco J. Rodriguez Lera and Jonatan Ginés. Engineering Applications of Artificial Intelligence. Volume 77, January 2019, Pages 177-185. 2019. <a href="https://doi.org/10.1016/j.engappai.2018.10.002">https://doi.org/10.1016/j.engappai.2018.10.002</a>
           </p>
+          {/* 
           <p>
             [Journal Q2] <b>"COMBAHO: A Deep Learning System for Integrating Brain Injury Patients in Society" </b> Jose Garcia-Rodriguez, Francisco Gomez-Donoso, Sergiu Oprea, Alberto Garcia-Garcia, Miguel Cazorla, Sergio Orts-Escolano, Zuria Bauer, John Castro-Vargas, Felix Escalona, David Ivorra-Piqueres, Pablo Martinez-Gonzalez, Eugenio Aguirre, Miguel Garcia-Silviente, Marcelo Garcia-Perez, Jose M. Cañas, Francisco Martin-Rico, Jonatan Gines, Francisco Rivas-Montero Pattern Recognition Letters, 2019. <link>https://doi.org/10.1016/j.patrec.2019.02.013</link>
           </p>
@@ -90,6 +91,7 @@ const IndexPage = () => (
           <p>
             <b>"Dynamics maps for long-term autonomy" </b> Jonatan Ginés Clavero, Francisco Martin Rico, Vicente Matellan Olivera, Francisco J. Lera and Jesus Balsa. 17th International Conference on Autonomous Robot Systems and Competitions (ICARSC 2017). Coimbra (Portugal). May 2017. <link>https://doi.org/10.1109/ICARSC.2017.7964057</link>
           </p>
+          */}
         </div>
       </section>
 
