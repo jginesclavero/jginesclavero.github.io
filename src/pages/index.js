@@ -56,42 +56,40 @@ const IndexPage = () => (
           <p>
             [Journal Q1] <b>"Octree-based localization using RGB-D data for indoor robots" </b> Francisco Martín Rico, Vicente Matellán Olivera, Francisco J. Rodriguez Lera and Jonatan Ginés. Engineering Applications of Artificial Intelligence. Volume 77, January 2019, Pages 177-185. 2019. <a href="https://doi.org/10.1016/j.engappai.2018.10.002">https://doi.org/10.1016/j.engappai.2018.10.002</a>
           </p>
-          {/* 
           <p>
-            [Journal Q2] <b>"COMBAHO: A Deep Learning System for Integrating Brain Injury Patients in Society" </b> Jose Garcia-Rodriguez, Francisco Gomez-Donoso, Sergiu Oprea, Alberto Garcia-Garcia, Miguel Cazorla, Sergio Orts-Escolano, Zuria Bauer, John Castro-Vargas, Felix Escalona, David Ivorra-Piqueres, Pablo Martinez-Gonzalez, Eugenio Aguirre, Miguel Garcia-Silviente, Marcelo Garcia-Perez, Jose M. Cañas, Francisco Martin-Rico, Jonatan Gines, Francisco Rivas-Montero Pattern Recognition Letters, 2019. <link>https://doi.org/10.1016/j.patrec.2019.02.013</link>
+            [Journal Q2] <b>"COMBAHO: A Deep Learning System for Integrating Brain Injury Patients in Society" </b> Jose Garcia-Rodriguez, Francisco Gomez-Donoso, Sergiu Oprea, Alberto Garcia-Garcia, Miguel Cazorla, Sergio Orts-Escolano, Zuria Bauer, John Castro-Vargas, Felix Escalona, David Ivorra-Piqueres, Pablo Martinez-Gonzalez, Eugenio Aguirre, Miguel Garcia-Silviente, Marcelo Garcia-Perez, Jose M. Cañas, Francisco Martin-Rico, Jonatan Gines, Francisco Rivas-Montero Pattern Recognition Letters, 2019. <a href="https://doi.org/10.1016/j.patrec.2019.02.013">https://doi.org/10.1016/j.patrec.2019.02.013</a>
           </p>
           <p>
-            [Journal] <b>"People detection and tracking using LIDAR sensors" </b> Claudia Álvarez Aparicio, Ángel Manuel Guerrero Higueras, Francisco Javier Rodríguez Lera, Jonatan Ginés Clavero, Francisco Martín Rico, Vicente Matellán. Journal Robotics. Special Issue "Robotics in Spain 2019". 2019 <link>https://doi.org/10.3390/robotics8030075</link>
+            [Journal] <b>"People detection and tracking using LIDAR sensors" </b> Claudia Álvarez Aparicio, Ángel Manuel Guerrero Higueras, Francisco Javier Rodríguez Lera, Jonatan Ginés Clavero, Francisco Martín Rico, Vicente Matellán. Journal Robotics. Special Issue "Robotics in Spain 2019". 2019 <a href="https://doi.org/10.3390/robotics8030075">https://doi.org/10.3390/robotics8030075</a>
           </p>
           <p>
-            <b>"Adapting ROS Logs to Facilitate Transparency and Accountability in Service Robotics" </b> Francisco J Rodríguez Lera, Angel Manuel Guerrero Higueras, Vicente Matellan Olivera, Francisco Martín Rico, Jonatan Gines and Juan Felipe García Sierra. ROBOT2019, published in Springer - Advances in Intelligent Systems and Computing series. November 2019. <link>https://doi.org/10.1007/978-3-030-36150-1_48</link>
+            <b>"Adapting ROS Logs to Facilitate Transparency and Accountability in Service Robotics" </b> Francisco J Rodríguez Lera, Angel Manuel Guerrero Higueras, Vicente Matellan Olivera, Francisco Martín Rico, Jonatan Gines and Juan Felipe García Sierra. ROBOT2019, published in Springer - Advances in Intelligent Systems and Computing series. November 2019. <a href="https://doi.org/10.1007/978-3-030-36150-1_48">https://doi.org/10.1007/978-3-030-36150-1_48</a>
           </p>
           <p>
-            <b>"Using Probabilistic Context Awareness in a Deliberative Planner System" </b> Jonatan Ginés Clavero, Francisco J. Rodriguez Lera, Francisco Martín Rico, Angel Manuel Guerrero, Vicente Matellán. International Work-Conference on the Interplay Between Natural and Artificial Computation, IWINAC 2019. <link>https://doi.org/10.1007/978-3-030-19651-6_16</link>
+            <b>"Using Probabilistic Context Awareness in a Deliberative Planner System" </b> Jonatan Ginés Clavero, Francisco J. Rodriguez Lera, Francisco Martín Rico, Angel Manuel Guerrero, Vicente Matellán. International Work-Conference on the Interplay Between Natural and Artificial Computation, IWINAC 2019. <a href="https://doi.org/10.1007/978-3-030-19651-6_16">https://doi.org/10.1007/978-3-030-19651-6_16</a>
           </p>
           <p>
-            <b>"LIDAR-based people detection and tracking for@ home Competitions" </b> Claudia Álvarez-Aparicio, Ángel M Guerrero-Higueras, Francisco J Rodríguez-Lera, M Carmen Calvo Olivera, Vicente Matellán Olivera, Jonatan Ginés Clavero, Francisco Martín Rico. 2019 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC). 2019. <link>https://doi.org/10.1109/ICARSC.2019.8733624</link>
+            <b>"LIDAR-based people detection and tracking for@ home Competitions" </b> Claudia Álvarez-Aparicio, Ángel M Guerrero-Higueras, Francisco J Rodríguez-Lera, M Carmen Calvo Olivera, Vicente Matellán Olivera, Jonatan Ginés Clavero, Francisco Martín Rico. 2019 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC). 2019. <a href="https://doi.org/10.1109/ICARSC.2019.8733624">https://doi.org/10.1109/ICARSC.2019.8733624</a>
           </p>
 
           <h3 className="mb-0">2018</h3>
           <p>
-            <b>"Planning-centered Architecture for RoboCup SSPL @Home" </b> Francisco Martín, Jonatan Ginés, David Vargas, Francisco J. Rodríguez-Lera, Vicente Matellán. WAF2018, publisehd in Advances in Intelligent Systems and Computing series. November 2018. <link>https://doi.org/10.1007/978-3-319-99885-5_20</link>
+            <b>"Planning-centered Architecture for RoboCup SSPL @Home" </b> Francisco Martín, Jonatan Ginés, David Vargas, Francisco J. Rodríguez-Lera, Vicente Matellán. WAF2018, publisehd in Advances in Intelligent Systems and Computing series. November 2018. <a href="https://doi.org/10.1007/978-3-319-99885-5_20">https://doi.org/10.1007/978-3-319-99885-5_20</a>
           </p>
           <p>
-            [CLASS 1] <b>"Planning Topological Navigation for complex Indoor Environments" </b> Francisco Martín, Jonatan Ginés, David Vargas, Francisco J. Rodríguez-Lera, Vicente Matellán. 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018), October 2018. <link>https://doi.org/10.1109/IROS.2018.8594038</link>
+            [CLASS 1] <b>"Planning Topological Navigation for complex Indoor Environments" </b> Francisco Martín, Jonatan Ginés, David Vargas, Francisco J. Rodríguez-Lera, Vicente Matellán. 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018), October 2018. <a href="https://doi.org/10.1109/IROS.2018.8594038">https://doi.org/10.1109/IROS.2018.8594038</a>
           </p>
 
           <h3 className="mb-0">2017</h3>
           <p>
-            <b>"3D mapping for a reliable long-term navigation" </b> Jonatan Ginés Clavero, Francisco Martin Rico, Vicente Matellan Olivera, Francisco J. Lera and Jesus Balsa. Robot'2017: 3rd Iberian Robotics Conference, published in Springer - Advances in Intelligent Systems and Computing. 22-24 November 2017, Sevilla (Spain). <link>https://doi.org/10.1007/978-3-319-70836-2_24</link>
+            <b>"3D mapping for a reliable long-term navigation" </b> Jonatan Ginés Clavero, Francisco Martin Rico, Vicente Matellan Olivera, Francisco J. Lera and Jesus Balsa. Robot'2017: 3rd Iberian Robotics Conference, published in Springer - Advances in Intelligent Systems and Computing. 22-24 November 2017, Sevilla (Spain). <a href="https://doi.org/10.1007/978-3-319-70836-2_24">https://doi.org/10.1007/978-3-319-70836-2_24</a>
           </p>
           <p>
-            <b>"Practical aspects of deploying Robotherapy" </b> Francisco Martin Rico and Jonatan Ginés Clavero. Robot'2017: 3rd Iberian Robotics Conference, published in Springer - Advances in Intelligent Systems and Computing. 22-24 November 2017, Sevilla (Spain). <link>https://doi.org/10.1007/978-3-319-70833-1_30</link>
+            <b>"Practical aspects of deploying Robotherapy" </b> Francisco Martin Rico and Jonatan Ginés Clavero. Robot'2017: 3rd Iberian Robotics Conference, published in Springer - Advances in Intelligent Systems and Computing. 22-24 November 2017, Sevilla (Spain). <a href="https://doi.org/10.1007/978-3-319-70833-1_30">https://doi.org/10.1007/978-3-319-70833-1_30</a>
           </p>
           <p>
-            <b>"Dynamics maps for long-term autonomy" </b> Jonatan Ginés Clavero, Francisco Martin Rico, Vicente Matellan Olivera, Francisco J. Lera and Jesus Balsa. 17th International Conference on Autonomous Robot Systems and Competitions (ICARSC 2017). Coimbra (Portugal). May 2017. <link>https://doi.org/10.1109/ICARSC.2017.7964057</link>
+            <b>"Dynamics maps for long-term autonomy" </b> Jonatan Ginés Clavero, Francisco Martin Rico, Vicente Matellan Olivera, Francisco J. Lera and Jesus Balsa. 17th International Conference on Autonomous Robot Systems and Competitions (ICARSC 2017). Coimbra (Portugal). May 2017. <a href="https://doi.org/10.1109/ICARSC.2017.7964057">https://doi.org/10.1109/ICARSC.2017.7964057</a>
           </p>
-          */}
         </div>
       </section>
 
