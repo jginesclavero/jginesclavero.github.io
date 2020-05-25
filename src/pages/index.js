@@ -90,6 +90,9 @@ const IndexPage = () => (
           <p>
             <b>"Dynamics maps for long-term autonomy" </b> Jonatan Ginés Clavero, Francisco Martin Rico, Vicente Matellan Olivera, Francisco J. Lera and Jesus Balsa. 17th International Conference on Autonomous Robot Systems and Competitions (ICARSC 2017). Coimbra (Portugal). May 2017. <a href="https://doi.org/10.1109/ICARSC.2017.7964057">https://doi.org/10.1109/ICARSC.2017.7964057</a>
           </p>
+          <div className="resume-date text-md-right">
+            <span className="text-primary">Last Update: May 2020</span>
+          </div>
         </div>
       </section>
 
