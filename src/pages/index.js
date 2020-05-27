@@ -111,10 +111,10 @@ const IndexPage = () => (
               <h3 className="mb-0">Robotics Researcher</h3>
               <div className="subheading mb-3">Intelligent Robotics Lab - Rey Juan Carlos University</div>
               <p>
-                Participación en subproyecto MROS del proyecto europeo H2020-EU.2.1.1 RobMoSys (No 732410)
+                Develop of a Topological navigation and mapping system.
               </p>
               <p>
-                Participación en subproyecto MOCAP4ROS2 del proyecto europeo H2020-EU.2.1.1 ROSin (No 732287)
+                Develop and integration of a HRI system based on DialogFlow.
               </p>
               <p>
                 R&D Robot Receptionist with Pepper robot for Acciona S.A.
@@ -150,6 +150,15 @@ const IndexPage = () => (
       >
         <div className="w-100">
           <h2 className="mb-5">Challenges</h2>
+          <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div className="resume-content">
+              <div className="subheading mb-3">SCIROC Challenge 2019 - Winners of Episode 4 - Take the elevator</div>
+              <div className="subheading mb-3">European RoboCup@Home Education 2019 Trieste Ed. - Winners</div>
+              <div className="subheading mb-3">European Robotics League IROS2018 Ed.</div>
+              <div className="subheading mb-3">RoboCup@Home Canada 2018 Ed.</div>
+              <div className="subheading mb-3">RoboCup@Home Leizpig 2016 Ed.</div>
+            </div>
+          </div>
         </div>
       </section>
       
