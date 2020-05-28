@@ -213,7 +213,7 @@ const IndexPage = () => (
         className="resume-section p-3 p-lg-5 d-flex align-items-center"
         id="skills"
       >
-        <div className="w-100">
+        <div className="w-50">
           <h2 className="mb-5">Skills</h2>
 
           <div className="subheading mb-3">
@@ -279,7 +279,7 @@ const IndexPage = () => (
       </section>
 
       <i>
-        Gatsby template developed by blabla. CI Github Action developed by blbla
+        Gatsby template developed by <a href="https://github.com/anubhavsrivastava/gatsby-starter-resume">anubhavsrivastava</a>. CI Github Action developed by <a href="https://github.com/enriikke/gatsby-gh-pages-action">enriikke</a>.
       </i>
     </div>
   </Layout>
