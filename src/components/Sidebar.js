@@ -68,12 +68,9 @@ export class Sidebar extends Component {
             {tabs.map((tab, i) => {
               const { href, content } = tab;
               return (
-                <li className="nav-item" key={href}>
-                  <Scroll 
-                type="id" 
-                    element={href} 
-                  >
-                    <a className="nav-link" href={`#${href}`} onClick={_ => this.toggleMenu(!openMenu)}>
+                <li className="nav-item" key={href} onClick={_ => this.toggleMenu(!openMenu)}>
+                  <Scroll type="id" element={href}>
+                    <a className="nav-link" href={`#${href}`}>
                       {content}
                     </a>
                   </Scroll>
