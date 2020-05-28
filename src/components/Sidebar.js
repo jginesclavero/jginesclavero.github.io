@@ -69,8 +69,12 @@ export class Sidebar extends Component {
               const { href, content } = tab;
               return (
                 <li className="nav-item" key={href}>
-                  <Scroll type="id" element={href}>
-                    <a className="nav-link" href={`#${href}`}>
+                  <Scroll 
+                    type="id" 
+                    element={href} 
+                    onClick={_ => this.toggleMenu(!openMenu)}
+                  >
+                    <a className="nav-link" href={`#${href}`} >
                       {content}
                     </a>
                   </Scroll>
