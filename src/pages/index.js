@@ -213,7 +213,7 @@ const IndexPage = () => (
         className="resume-section p-3 p-lg-5 d-flex align-items-center"
         id="skills"
       >
-        <div className="w-50">
+        <div className="w-100">
           <h2 className="mb-5">Skills</h2>
 
           <div className="subheading mb-3">
