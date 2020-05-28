@@ -152,16 +152,25 @@ const IndexPage = () => (
           <h2 className="mb-5">Challenges</h2>
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-            <ul className="fa-ul mb-0">
-              <li>
-                <i className="fa-li fa fa-trophy text-warning"></i>
-                <i className="subheading mb-3" >SCIROC Challenge 2019 - Winners of Episode 4 - Take the elevator</i>
-            </li>
-            </ul>
-              <div className="subheading mb-3">European RoboCup@Home Education 2019 Trieste Ed. - Winners</div>
-              <div className="subheading mb-3">European Robotics League IROS2018 Ed.</div>
-              <div className="subheading mb-3">RoboCup@Home Canada 2018 Ed.</div>
-              <div className="subheading mb-3">RoboCup@Home Leizpig 2016 Ed.</div>
+              <ul className="fa-ul mb-0">
+                <li>
+                  <i className="fa-li fa fa-trophy text-warning"></i>
+                  <p className="subheading mb-3">SCIROC Challenge 2019 - Winners of Episode 4 - Take the elevator</p>
+                </li>
+                <li>
+                  <i className="fa-li fa fa-trophy text-warning"></i>
+                  <p className="subheading mb-3">European RoboCup@Home Education 2019 Trieste Ed. - Winners</p>
+                </li>
+                <li>
+                  <p className="subheading mb-3">European Robotics League IROS2018 Ed.</p>
+                </li>
+                <li>
+                  <p className="subheading mb-3">RoboCup@Home Canada 2018 Ed.</p>
+                </li>
+                <li>
+                  <p className="subheading mb-3">RoboCup@Home Leizpig 2016 Ed.</p>
+                </li>
+              </ul>
             </div>
           </div>
         </div>
