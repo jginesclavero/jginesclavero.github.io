@@ -18,8 +18,12 @@ export class Sidebar extends Component {
         { content: 'Skills', href: 'skills' },
         { content: 'Interests', href: 'interests' },
       ],
+      openMenu: false,
     };
   }
+  toggleMenu = value => {
+    this.setState({ openMenu: value });
+  };
 
   render() {
     const { openMenu, tabs } = this.state;
