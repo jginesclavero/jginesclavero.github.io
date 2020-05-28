@@ -70,11 +70,10 @@ export class Sidebar extends Component {
               return (
                 <li className="nav-item" key={href}>
                   <Scroll 
-                    type="id" 
+                type="id" 
                     element={href} 
-                    onClick={_ => this.toggleMenu(!openMenu)}
                   >
-                    <a className="nav-link" href={`#${href}`} >
+                    <a className="nav-link" href={`#${href}`} onClick={_ => this.toggleMenu(!openMenu)}>
                       {content}
                     </a>
                   </Scroll>
