@@ -27,6 +27,11 @@ module.exports = {
       name: 'Twitter',
       url: 'https://twitter.com/Jonatan_Gines',
     },
+    {
+      icon: 'fa-orcid',
+      name: 'Orcid',
+      url: 'https://orcid.org/0000-0002-7319-098X',
+    },
   ],
   email: 'jginesclavero@gmail.com',
 };
