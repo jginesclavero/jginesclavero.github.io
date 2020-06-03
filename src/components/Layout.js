@@ -26,6 +26,7 @@ class Layout extends Component {
               meta={[
                 { name: 'description', content: 'Resume' },
                 { name: 'keywords', content: 'site, web' },
+                { name: 'google-site-verification', content: 'ADniTs0kWnUmJp4lWOlXsbgXJww4IE2DylH3LOsf6zk' }
               ]}
             >
               <html lang="en" />
