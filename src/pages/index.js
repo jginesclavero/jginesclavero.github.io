@@ -130,10 +130,10 @@ const IndexPage = () => (
               <h3 className="mb-0">Network & Infrastructures Security Engineer</h3>
               <div className="subheading mb-3">ATOS</div>
               <p>
-                Firewalls (PaloAlto, Fortinet, Forcepoint) and Load Balancer (F5) support.
+                Configuration, deploy and maintenance of firewalls like PaloAlto, Fortinet, Forcepoint and F5 Load Balancers.
               </p>
               <p>
-                F5 iRules development.
+                F5 iRules development to create the VPN-SSL workflow.
               </p>
             </div>
             <div className="resume-date text-md-right">
