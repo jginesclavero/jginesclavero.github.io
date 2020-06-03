@@ -24,8 +24,8 @@ class Layout extends Component {
             <Helmet
               title={data.site.siteMetadata.title}
               meta={[
-                { name: 'description', content: 'Resume' },
-                { name: 'keywords', content: 'site, web' },
+                { name: 'description', content: 'Jonatan Gines Clavero - Personal web' },
+                { name: 'keywords', content: 'jonatan gines, jonatan gines clavero, site, web, personal web, researcher' },
                 { name: 'google-site-verification', content: 'ADniTs0kWnUmJp4lWOlXsbgXJww4IE2DylH3LOsf6zk' }
               ]}
             >
