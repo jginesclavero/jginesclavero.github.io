@@ -21,5 +21,34 @@ module.exports = {
     },
     'gatsby-plugin-sass',
     'gatsby-plugin-offline',
+    {
+      resolve: 'gatsby-plugin-next-seo',
+      options: {
+        openGraph: {
+          type: 'website',
+          locale: 'en_IE',
+          url: 'https://jginesclavero.github.io/',
+          site_name: 'Jonatan Gines (jginesclavero) personal web',
+          description: 'Jonatan Gines (jginesclavero) personal web',
+          profile: {
+            firstName: 'Jonatan',
+            lastName: 'Gines',
+            username: 'jginesclavero',
+          },
+          images: [
+            {
+              url: 'https://jginesclavero.github.io/static/avatar-fb2a276bae6234f6c716105f396c892a.png',
+              width: 640,
+              height: 640
+            }
+          ],
+        },
+        twitter: {
+          handle: '@Jonatan_Gines',
+          site: '@Jonatan_Gines',
+          cardType: 'summary_large_image',
+        },
+      },
+    },
   ],
 };
