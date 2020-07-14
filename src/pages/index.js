@@ -53,6 +53,10 @@ const IndexPage = () => (
           </div>
 
           <h2 className="mb-5">Publications</h2>
+          <h3 className="mb-0">2020</h3>
+          <p>
+            [Journal Q2] <b>"An Acceptance Test for Assistive Robots" </b> Martin Rico, F.; Rodríguez-Lera, F.J.; Ginés Clavero, J.; Guerrero-Higueras, Á.M.; Matellán Olivera, V. Sensors 2020, 20, 3912. <a href="https://doi.org/10.3390/s20143912">https://doi.org/10.3390/s20143912</a>
+          </p> 
           <h3 className="mb-0">2019</h3>
           <p>
             [Journal Q2] <b>"A Social Navigation in a Cognitive Architecture Using Dynamic Proxemic Zones" </b> Jonatan Ginés, Francisco Martín Rico, David Vargas, Francisco J. Rodriguez Lera and Vicente Matellán Olivera. Sensors. 19, 5189. 2019. <a href="https://doi.org/10.3390/s19235189">https://doi.org/10.3390/s19235189</a>
