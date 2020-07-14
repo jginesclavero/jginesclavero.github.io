@@ -55,11 +55,11 @@ const IndexPage = () => (
           <h2 className="mb-5">Publications</h2>
           <h3 className="mb-0">2020</h3>
           <p>
-            [Journal Q2] <b>"An Acceptance Test for Assistive Robots" </b> Martin Rico, F.; Rodríguez-Lera, F.J.; Ginés Clavero, J.; Guerrero-Higueras, Á.M.; Matellán Olivera, V. Sensors 2020, 20, 3912. <a href="https://doi.org/10.3390/s20143912">https://doi.org/10.3390/s20143912</a>
+            [Journal Q1] <b>"An Acceptance Test for Assistive Robots" </b> Martin Rico, F.; Rodríguez-Lera, F.J.; Ginés Clavero, J.; Guerrero-Higueras, Á.M.; Matellán Olivera, V. Sensors 2020, 20, 3912. <a href="https://doi.org/10.3390/s20143912">https://doi.org/10.3390/s20143912</a>
           </p> 
           <h3 className="mb-0">2019</h3>
           <p>
-            [Journal Q2] <b>"A Social Navigation in a Cognitive Architecture Using Dynamic Proxemic Zones" </b> Jonatan Ginés, Francisco Martín Rico, David Vargas, Francisco J. Rodriguez Lera and Vicente Matellán Olivera. Sensors. 19, 5189. 2019. <a href="https://doi.org/10.3390/s19235189">https://doi.org/10.3390/s19235189</a>
+            [Journal Q1] <b>"A Social Navigation in a Cognitive Architecture Using Dynamic Proxemic Zones" </b> Jonatan Ginés, Francisco Martín Rico, David Vargas, Francisco J. Rodriguez Lera and Vicente Matellán Olivera. Sensors. 19, 5189. 2019. <a href="https://doi.org/10.3390/s19235189">https://doi.org/10.3390/s19235189</a>
           </p>
           <p>
             [Journal Q1] <b>"Octree-based localization using RGB-D data for indoor robots" </b> Francisco Martín Rico, Vicente Matellán Olivera, Francisco J. Rodriguez Lera and Jonatan Ginés. Engineering Applications of Artificial Intelligence. Volume 77, January 2019, Pages 177-185. 2019. <a href="https://doi.org/10.1016/j.engappai.2018.10.002">https://doi.org/10.1016/j.engappai.2018.10.002</a>
