@@ -22,7 +22,7 @@ module.exports = {
     'gatsby-plugin-sass',
     'gatsby-plugin-offline',
     {
-      resolve: 'gatsby-plugin-next-seo',
+      resolve: `gatsby-plugin-next-seo`,
       options: {
         openGraph: {
           type: 'website',
