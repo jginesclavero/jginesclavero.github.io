@@ -1,5 +1,6 @@
 module.exports = {
   siteTitle: 'Jonatan Gines - Personal site', // <title>
+  siteUrl: 'https://jginesclavero.github.io/',
   manifestName: 'Resume',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',

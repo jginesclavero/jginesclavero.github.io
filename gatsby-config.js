@@ -4,6 +4,7 @@ module.exports = {
   pathPrefix: config.pathPrefix,
   siteMetadata: {
     title: config.siteTitle,
+    siteUrl: config.siteUrl,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -27,7 +28,7 @@ module.exports = {
         openGraph: {
           type: 'website',
           locale: 'en_IE',
-          url: 'https://jginesclavero.github.io/',
+          url: config.siteUrl,
           site_name: 'Jonatan Gines (jginesclavero) personal web',
           description: 'Jonatan Gines (jginesclavero) personal web',
           profile: {
