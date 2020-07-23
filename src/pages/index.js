@@ -77,7 +77,7 @@ const IndexPage = () => (
             <b>"Using Probabilistic Context Awareness in a Deliberative Planner System" </b> Jonatan Ginés Clavero, Francisco J. Rodriguez Lera, Francisco Martín Rico, Angel Manuel Guerrero, Vicente Matellán. International Work-Conference on the Interplay Between Natural and Artificial Computation, IWINAC 2019. <a href="https://doi.org/10.1007/978-3-030-19651-6_16">https://doi.org/10.1007/978-3-030-19651-6_16</a>
           </p>
           <p>
-            <b>"LIDAR-based people detection and tracking for@ home Competitions" </b> Claudia Álvarez-Aparicio, Ángel M Guerrero-Higueras, Francisco J Rodríguez-Lera, M Carmen Calvo Olivera, Vicente Matellán Olivera, Jonatan Ginés Clavero, Francisco Martín Rico. 2019 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC). 2019. <a href="https://doi.org/10.1109/ICARSC.2019.8733624">https://doi.org/10.1109/ICARSC.2019.8733624</a>
+            <b>"LIDAR-based people detection and tracking for @Home Competitions" </b> Claudia Álvarez-Aparicio, Ángel M Guerrero-Higueras, Francisco J Rodríguez-Lera, M Carmen Calvo Olivera, Vicente Matellán Olivera, Jonatan Ginés Clavero, Francisco Martín Rico. 2019 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC). 2019. <a href="https://doi.org/10.1109/ICARSC.2019.8733624">https://doi.org/10.1109/ICARSC.2019.8733624</a>
           </p>
 
           <h3 className="mb-0">2018</h3>
