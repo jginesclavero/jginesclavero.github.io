@@ -115,6 +115,9 @@ const IndexPage = () => (
               <h3 className="mb-0">Robotics Researcher</h3>
               <div className="subheading mb-3">Intelligent Robotics Lab - Rey Juan Carlos University</div>
               <p>
+                Part of the <b><a href="https://gsyc.urjc.es/~dvargas/gentlebots/">Gentlebots</a></b> team.
+              </p>
+              <p>
                 Develop of a Topological navigation and mapping system.
               </p>
               <p>
