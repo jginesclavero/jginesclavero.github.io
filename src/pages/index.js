@@ -49,14 +49,17 @@ const IndexPage = () => (
       >
         <div className="w-100">
           <div className="resume-date text-md-right">
-            <span className="text-primary">Last Update: May 2020</span>
+            <span className="text-primary">Last Update: Aug 2020</span>
           </div>
 
           <h2 className="mb-5">Publications</h2>
           <h3 className="mb-0">2020</h3>
           <p>
             [Journal Q1] <b>"An Acceptance Test for Assistive Robots" </b> Martin Rico, F.; Rodríguez-Lera, F.J.; Ginés Clavero, J.; Guerrero-Higueras, Á.M.; Matellán Olivera, V. Sensors 2020, 20, 3912. <a href="https://doi.org/10.3390/s20143912">https://doi.org/10.3390/s20143912</a>
-          </p> 
+          </p>
+          <p>
+            [Journal Q2] <b>"Depicting probabilistic context awareness knowledge in deliberative architectures" </b> Jonatan Ginés; Francisco J. Rodríguez-Lera; Francisco Martín; Ángel Manuel Guerrero; Vicente Matellán. Nat Comput (2020). <a href="https://doi.org/10.1007/s11047-020-09798-z">https://doi.org/10.1007/s11047-020-09798-z</a>
+          </p>
           <h3 className="mb-0">2019</h3>
           <p>
             [Journal Q1] <b>"A Social Navigation in a Cognitive Architecture Using Dynamic Proxemic Zones" </b> Jonatan Ginés, Francisco Martín Rico, David Vargas, Francisco J. Rodriguez Lera and Vicente Matellán Olivera. Sensors. 19, 5189. 2019. <a href="https://doi.org/10.3390/s19235189">https://doi.org/10.3390/s19235189</a>
