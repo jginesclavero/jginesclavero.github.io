@@ -42,7 +42,58 @@ const IndexPage = () => (
       </section>
 
       <hr className="m-0" />
-
+      <section
+        className="resume-section p-3 p-lg-5 d-flex align-items-center"
+        id="research"
+      >
+        <div className="w-100">
+          <h2 className="mb-5">Research Topics</h2>
+          <div class="row">
+						<div class="col-4 col-12-mobile">
+							<article class="item">
+								<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
+								<header>
+									<h3>Robotics</h3>
+								</header>
+							</article>
+							<article class="item">
+								<a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
+								<header>
+									<h3>Context Awareness</h3>
+								</header>
+							</article>
+						</div>
+						<div class="col-4 col-12-mobile">
+							<article class="item">
+								<a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
+								<header>
+									<h3>Social Robots</h3>
+								</header>
+							</article>
+							<article class="item">
+								<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
+								<header>
+									<h3>Robotics Competitions</h3>
+								</header>
+							</article>
+						</div>
+						<div class="col-4 col-12-mobile">
+							<article class="item">
+								<a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
+								<header>
+									<h3>Human Robot Interaction</h3>
+								</header>
+							</article>
+							<article class="item">
+								<a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
+								<header>
+									<h3>Cognitive Arthictectures</h3>
+								</header>
+							</article>
+						</div>
+					</div>
+        </div>
+      </section>
       <section
         className="resume-section p-3 p-lg-5 d-flex align-items-center"
         id="publications"
