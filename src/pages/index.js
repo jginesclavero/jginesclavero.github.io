@@ -58,6 +58,9 @@ const IndexPage = () => (
             <b>"Defining Adaptive Proxemic Zones for Activity-Aware Navigation" </b> Jonatan Ginés,Francisco Martín, Francisco J. Rodríguez-Lera, José Miguel Guerrero Hernández, Vicente Matellán. In: Bergasa L.M., Ocaña M., Barea R., López-Guillén E., Revenga P. (eds) Advances in Physical Agents II. WAF 2020. Advances in Intelligent Systems and Computing, vol 1285. Springer, Cham. <a href="https://doi.org/10.1007/978-3-030-62579-5_1">https://doi.org/10.1007/978-3-030-62579-5_1</a>
           </p>
           <p>
+            [CLASS 1] <b>"The Marathon 2: A Navigation System" </b> Steve Macenski, Francisco Martín, Ruffin White,  Jonatan Ginés. 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020), October 2020.
+          </p>
+          <p>
             [Journal Q2] <b>"Evolution of a Cognitive Architecture for Social Robots: Integrating Behaviors and Symbolic Knowledge" </b> Martin Rico, F.; Rodríguez-Lera, F.J.; Ginés Clavero, J.; Matellán Olivera, V. Appl. Sci. 2020, 10, 6067.<a href="https://doi.org/10.3390/app10176067">https://doi.org/10.3390/app10176067</a>
           </p>
           <p>
