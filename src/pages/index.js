@@ -49,16 +49,29 @@ const IndexPage = () => (
       >
         <div className="w-100">
           <div className="resume-date text-md-right">
-            <span className="text-primary">Last Update: Jan 2021</span>
+            <span className="text-primary">Last Update: Jun 2021</span>
           </div>
 
           <h2 className="mb-5">Publications</h2>
+          <h3 className="mb-0">2021</h3>
+          <p>
+            [CLASS 1] <b>"PlanSys2: A Planning System Framework for ROS2" </b> Francisco Martín, Jonatan Ginés, Vicente Matellan, Francisco Javier Rodríguez Lera. 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021), October 2021.
+          </p>
+          <p>
+            [Journal Q2] <b>"Client-server approach for managing visual attention, integrated in a cognitive architecture for a social robot" </b> Matellán Olivera, V; Martin Rico, F.; Ginés Clavero, J.; Rodríguez-Lera, F.J.; Guerrero-Higueras, A.M.; Frontiers in Neurorobotics 15, 71.
+          </p>
+          <p>
+            <b>"Using HPC as a Competitive Advantage in an International Robotics Challenge" </b> Álvarez Aparicio C.; Ginés Clavero, J.;  Santamarta, M.A.; Martin Rico, F.; Guerrero-Higueras, A.M.; Rodríguez-Lera, F.J.; Matellán Olivera, V. Nesmachnow S., Castro H., Tchernykh A. (eds) High Performance Computing. CARLA 2020. Communications in Computer and Information Science, vol 1327. Springer, Cham. <a href="https://doi.org/10.1007/978-3-030-68035-0_8">https://doi.org/10.1007/978-3-030-68035-0_8</a>
+          </p>
+          <p>
+            [Journal Q2] <b>"Semantic 3D Mapping from Deep Image Segmentation" </b> Francisco Martín; Fernando Gonzalez, José Miguel Guerrero Hernández, Manuel Fernández Carmona, Jonatan Ginés. Appl. Sci. 2021, 11, 1953. <a href="https://doi.org/10.3390/app11041953 ">https://doi.org/10.3390/app11041953</a>
+          </p>
           <h3 className="mb-0">2020</h3>
           <p>
             <b>"Defining Adaptive Proxemic Zones for Activity-Aware Navigation" </b> Jonatan Ginés,Francisco Martín, Francisco J. Rodríguez-Lera, José Miguel Guerrero Hernández, Vicente Matellán. In: Bergasa L.M., Ocaña M., Barea R., López-Guillén E., Revenga P. (eds) Advances in Physical Agents II. WAF 2020. Advances in Intelligent Systems and Computing, vol 1285. Springer, Cham. <a href="https://doi.org/10.1007/978-3-030-62579-5_1">https://doi.org/10.1007/978-3-030-62579-5_1</a>
           </p>
           <p>
-            [CLASS 1] <b>"The Marathon 2: A Navigation System" </b> Steve Macenski, Francisco Martín, Ruffin White,  Jonatan Ginés. 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020), October 2020.
+            [CLASS 1] <b>"The Marathon 2: A Navigation System" </b> Steve Macenski, Francisco Martín, Ruffin White,  Jonatan Ginés. 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020), October 2020. <a href="https://doi.org/10.1109/IROS45743.2020.9341207">https://doi.org/10.1109/IROS45743.2020.9341207</a>
           </p>
           <p>
             [Journal Q2] <b>"Evolution of a Cognitive Architecture for Social Robots: Integrating Behaviors and Symbolic Knowledge" </b> Martin Rico, F.; Rodríguez-Lera, F.J.; Ginés Clavero, J.; Matellán Olivera, V. Appl. Sci. 2020, 10, 6067.<a href="https://doi.org/10.3390/app10176067">https://doi.org/10.3390/app10176067</a>
